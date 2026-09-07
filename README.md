@@ -1,77 +1,56 @@
 # 👋 Hi, I'm Venkateswarlu Reddy Bakka
 
-🚀 Robotics | IoT | Embedded Systems Engineer  
-📍 India  
+**Robotics | Computer Vision | Embedded Systems | IoT**  
+India
 
-I design and build real-world embedded systems using ESP8266, ESP32, Arduino, and Python.  
-Focused on automation, smart systems, and robotics applications.
+I build real-world robotics and automation systems across embedded hardware, computer vision, IoT, and Python-based control software.
 
----
+## ⭐ Featured Projects
 
-## 🔥 Featured Projects
+### 🖐️ Gesture VLC Controller
+**Python · OpenCV · MediaPipe · VLC HTTP/Lua**
 
-### 🚗 Smart Parking System (ESP32 + IoT)
-- Real-time parking slot monitoring using sensors
-- Cloud integration using Blynk
-- Live status tracking via mobile app
+A real-time webcam-only human-computer interaction system that converts 21-point hand landmarks into stable, explainable gestures and controls VLC without OS-level keyboard or mouse automation.
 
-### 📡 RFID Attendance System (NodeMCU + Telegram)
-- RFID-based authentication system
-- Sends real-time attendance via Telegram Bot
-- WiFi-enabled embedded system
+**Highlights:** temporal stabilization · deterministic state machine · long-hold interactions · VLC-native volume/long-jump actions · clean shutdown · automated tests
 
-### 🖐️ Gesture Controlled Computer
-- Ultrasonic sensor-based gesture detection
-- Controls system volume, media, and scrolling
-- Python automation using PyAutoGUI
+➡️ [Explore the Gesture VLC Controller project](projects/gesture-vlc-controller/)
+
+### 🚗 Smart Parking System
+**ESP32 · Sensors · IoT**
+
+Real-time parking slot monitoring with cloud-connected status tracking.
+
+### 📡 RFID Attendance System
+**NodeMCU · RFID · Wi-Fi · Telegram**
+
+RFID-based attendance and real-time notification workflow.
 
 ### 🤖 Obstacle Avoiding Robot
-- Autonomous navigation using ultrasonic sensors
-- Real-time obstacle detection and avoidance logic
+**Arduino · Ultrasonic Sensing · Motor Control**
 
-### 🔐 Cyber Fraud Detection (AI + Streamlit)
-- Detects suspicious inputs using pattern analysis
-- Interactive UI built with Streamlit
+Autonomous navigation using real-time obstacle detection and motor control logic.
 
----
+## Technical Focus
 
-## 🛠️ Technical Skills
+| Area | Technologies |
+|---|---|
+| Programming | Python, C, C++ |
+| Computer Vision | OpenCV, MediaPipe |
+| Embedded | Arduino, ESP8266, ESP32, STM32 (basic) |
+| Robotics | Sensors, motors, servos, control logic |
+| IoT | Wi-Fi, MQTT-oriented systems, cloud integrations |
+| Engineering | Testing, debugging, modular architecture, automation |
 
-### 💻 Programming
-- C / C++
-- Python
+## What I Bring
 
-### ⚙️ Embedded Systems
-- Arduino
-- ESP8266 (NodeMCU)
-- ESP32
-- STM32 (Basic)
+- Hands-on hardware + software integration
+- Real-time systems thinking
+- Practical debugging and failure analysis
+- Robotics/STEM project implementation
+- Interest in embedded R&D, computer vision, and robotics software
 
-### 🌐 IoT & Tools
-- Blynk
-- Telegram API
-- WiFi Communication
-- Streamlit
+## Contact
 
-### 🔌 Electronics
-- Sensors (RFID, Ultrasonic)
-- Relays, Motors, Servos
-- Circuit Design & Debugging
-
----
-
-## 📊 What I Bring
-✔ Hands-on project building  
-✔ Real hardware + software integration  
-✔ Problem-solving in embedded systems  
-✔ Teaching & mentoring experience  
-
----
-
-## 📫 Contact Me
 📧 bakkavenkateswarlureddy@gmail.com  
-
----
-
-## ⚡ GitHub Stats
-(Add GitHub stats later if needed)
+GitHub: [@VenkateswarluReddy24](https://github.com/VenkateswarluReddy24)
